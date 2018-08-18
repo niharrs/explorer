@@ -1,0 +1,15 @@
+{
+  "name": "explorer",
+  "version": "1.0.0",
+  "description": "Brought to you by Dapp University and Quiknode.io!",
+  "main": "index.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
